@@ -2,6 +2,8 @@
 
 I'm Olfat Sayed, a developer passionate about machine learning, NLP, deep learning, computer vision, large language models (LLMs), and retrieval-augmented generation (RAG) pipelines.
 
+- 📫 How to reach me: ...[olfatsa00@gmail.com](mailto:your.email@gmail.com).
+You can reach me via email at [your.email@gmail.com](mailto:your.email@gmail.com). Feel free to contact me for collaborations or questions, or connect!
 <!--
 **OlfatSeid/OlfatSeid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

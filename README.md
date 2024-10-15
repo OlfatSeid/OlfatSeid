@@ -9,7 +9,7 @@ You can reach me via email at [olfatsa00@gmail.com](mailto:your.email@gmail.com)
 
 
 ### 💬 Let's connect:
-- [LinkedIn](https://linkedin.com/in/[[yourprofile](https://www.linkedin.com/in/olfat-sayed-bb9763223/)])
+- [LinkedIn](https://linkedin.com/in/(https://www.linkedin.com/in/olfat-sayed-bb9763223/))
 
 <!--
 **OlfatSeid/OlfatSeid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

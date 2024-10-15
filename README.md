@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Olfat Sayed, a developer passionate about machine learning, NLP, deep learning, computer vision, large language models (LLMs), and retrieval-augmented generation (RAG) pipelines.
+
 <!--
 **OlfatSeid/OlfatSeid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
